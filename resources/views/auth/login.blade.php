@@ -70,9 +70,9 @@
                                     Login In with Facebook
                                 </a>
 
-                                <a href="/login/github" class="btn btn-primary">
+                              {{--  <a href="/login/github" class="btn btn-primary">
                                     Login In with Github
-                                </a>
+                                </a>--}}
 
                                {{-- <a href="/login/twitter" class="btn btn-primary">
                                     Login In with Twitter
